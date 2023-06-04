@@ -22,3 +22,5 @@ As a software engineer with over a decade of experience, I am well-versed in the
 
 ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DenilssonMontoya&layout=compact)
 
+
+[![](https://visitcount.itsvg.in/api?id=DenilssonMontoya&label=Profile%20Views&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in)
